@@ -1,0 +1,1651 @@
+{
+  "url": "https://www.ntc.net.np",
+  "title": "NT",
+  "status": 200,
+  "depth": 0,
+  "parent": null,
+  "children": [
+    {
+      "url": "https://pinrecovery.ntc.net.np/",
+      "title": "NT recharge card support",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://esim.ntc.net.np",
+      "title": "NT eSIM Portal - Send OTP",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://esim.ntc.net.np/help_page.php",
+          "title": "eSIM Guidelines - Nepal Telecom",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://esim.ntc.net.np",
+          "children": [
+            {
+              "url": "https://esim.ntc.net.np/index.php",
+              "title": "NT eSIM Portal - Send OTP",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://esim.ntc.net.np/help_page.php",
+              "children": []
+            }
+          ]
+        },
+        {
+          "url": "https://www.ntc.net.np/post/contact-info",
+          "title": "NT | Contact Info",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://esim.ntc.net.np",
+          "children": [
+            {
+              "url": "https://www.ntc.net.np/post/mission-vision-goal-1",
+              "title": "NT | Vision, Mission & Goal",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/milestones",
+              "title": "NT | Milestones",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/fiscal-year-2070-71",
+              "title": "NT | Fiscal Year 2070-71",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/fiscal-year-2071-072",
+              "title": "NT | Fiscal Year 2071-72",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/fiscal-year-2072-73",
+              "title": "NT | Fiscal Year 2072-73",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/fiscal-year-2073-074",
+              "title": "NT | Fiscal Year 2073-74",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/fiscal-year-2075-76",
+              "title": "NT | Fiscal Year 2075-76",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/organization-structure-2",
+              "title": "NT | Organization Structure",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/welcome-to-nepal-telecom",
+              "title": "NT | Nepal Telecom",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/departments",
+              "title": "NT | Departments",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/telecom-smarika",
+              "title": "NT | Telecom Smarika",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/office-of-chro",
+              "title": "NT | Office of CHRO",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/office-of-cfo",
+              "title": "NT | Office of CFO",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/fiscal-year-2076-77",
+              "title": "NT | Fiscal Year 2076-77",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/fiscal-year-2077-78",
+              "title": "NT | Fiscal Year 2077-78",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/karmachari-biniyamawali",
+              "title": "NT | Karmachari Biniyamawali",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/fiscal-year-2078-79",
+              "title": "NT | Fiscal Year 2078-79",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/fiscal-year-2079-80",
+              "title": "NT | Fiscal Year 2079-80",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/15th-agm-nepal-telecom",
+              "title": "NT | 15th AGM -  Nepal Telecom",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/fiscal-year-2080-81",
+              "title": "NT | Fiscal Year 2080-81",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/16th-agm-nepal-telecom",
+              "title": "NT | 16th AGM -  Nepal Telecom",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/fiscal-year-2081-082",
+              "title": "NT | Fiscal Year 2081-082",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/l-b-a",
+              "title": "NT | मतदाता नामावली  (प्रथम पटक प्रकाशित )",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/board-of-directors",
+              "title": "NT | Board of Directors",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/17th-agm-nepal-telecom",
+              "title": "NT | News & Updates",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/fiscal-year-2082-83",
+              "title": "NT | Fiscal Year 2082-83",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/17th-agm-nepal-telecom-1",
+              "title": "NT | 17th AGM -  Nepal Telecom",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/18th-agm-nepal-telecom",
+              "title": "NT | 18th AGM - Nepal Telecom",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/contact-info",
+              "children": []
+            }
+          ]
+        },
+        {
+          "url": "https://www.ntc.net.np/buy/packages",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://esim.ntc.net.np",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "https://gsmbl.ntc.net.np",
+      "title": "Nepal Telecom :: Nepal Doorsanchar Company Limited",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://www.ntc.net.np/companyInfo/contact.php",
+          "title": "NT | undefined",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://gsmbl.ntc.net.np",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/downloads/downloads.php",
+          "title": "NT | undefined",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://gsmbl.ntc.net.np",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "https://offer.ntc.net.np/",
+      "title": "NEPAL TELECOM",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://offer.ntc.net.np/VolumeQuery.aspx",
+          "title": "NEPAL TELECOM",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://offer.ntc.net.np/",
+          "children": []
+        },
+        {
+          "url": "https://offer.ntc.net.np/giftpack.aspx",
+          "title": "NEPAL TELECOM",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://offer.ntc.net.np/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "https://webmail.ntc.net.np/",
+      "title": "NT-Mail Sign In",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://groupsms.ntc.net.np/",
+      "title": "Group Sms Sending Portal",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/nt-4g-lte-bands",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/about-us/karmachari-biniyamawali",
+      "title": "NT | Karmachari Biniyamawali",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/about-us/prabandha-patra",
+      "title": "NT | Prabandha Patra",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/about-us/financial-statements",
+      "title": "NT | Financial Statements",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/about-us/contact",
+      "title": "NT | Contact",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/about-us/telecom-smarika",
+      "title": "NT | Telecom Smarika",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/about-us/annual-general-meeting",
+      "title": "NT | Annual General Meeting",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/about-us/departments",
+      "title": "NT | Departments",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://ttrc.ntc.net.np/",
+          "title": "",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/about-us/departments",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "https://www.ntc.net.np/about-us/milestones",
+      "title": "NT | Milestones",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/about-us/nepal-telecom-in-brief",
+      "title": "NT | Nepal Telecom in Brief",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://www.ntc.net.np/post/proactive-disclosure",
+          "title": "NT | स्वत: प्रकाशन (Proactive Disclosure)",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/about-us/nepal-telecom-in-brief",
+          "children": [
+            {
+              "url": "https://www.ntc.net.np/post/newsletters",
+              "title": "NT | Newsletters",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/proactive-disclosure",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/useful-short-codes",
+              "title": "NT | Useful Short Codes",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/proactive-disclosure",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/nts-request-on-using-4g-mobile-handset",
+              "title": "NT | NT's request on using 4G Mobile Handset",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/proactive-disclosure",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/form-dowloads",
+              "title": "NT | Form Downloads",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/proactive-disclosure",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/teez-tiktok-challenge-2080",
+              "title": "NT | Teez TikTok Contest 2080",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/proactive-disclosure",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/20th-anniversary-offer-2080",
+              "title": "NT | 20th Anniversary Offer 2080",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/proactive-disclosure",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/online-b-aab",
+              "title": "NT | Online पत्रिकाको सूचीकरण सम्बन्धि सूचना (7 Days Extended)",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/proactive-disclosure",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/re-invitation-for-sealed-quotations-b",
+              "title": "NT | Re-invitation For Sealed Quotations सम्बन्धि सूचना",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/proactive-disclosure",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/tender-notice-regarding-mobile-multi-charger",
+              "title": "NT | Notice regarding Mobile Multi Charger",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/proactive-disclosure",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/notice-regarding-diary-calendar",
+              "title": "NT | Notice regarding Diary & Calendar",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/proactive-disclosure",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/international-outgoing-sms",
+              "title": "NT | International Outgoing SMS",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/proactive-disclosure",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/notices-for-all-general-public",
+              "title": "NT | Notices For All  General Public",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/proactive-disclosure",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.ntc.net.np/about-us/vision-mission-goal",
+      "title": "NT | Vision, Mission & Goal",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/about-us/board-of-directors",
+      "title": "NT | Board of Directors",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/about-us/organization-structure",
+      "title": "NT | Organization Structure",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/about-us/",
+      "title": "NT | About Us",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/services",
+      "title": "NT | Services",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://www.ntc.net.np/services/dedicated-lease-connectivity",
+          "title": "NT | Dedicated Lease Connectivity",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/services/crbtcaller-ring-back-tone",
+          "title": "NT | CRBT(Caller Ring Back Tone)",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/services/ivr-service",
+          "title": "NT | IVR Service",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/services/toll-free-phone",
+          "title": "NT | Toll-Free Phone",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/services/landline",
+          "title": "NT | Landline",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services",
+          "children": [
+            {
+              "url": "https://www.ntc.net.np/notices/useful-short-codes",
+              "title": "NT",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/services/landline",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/useful-pstn-services",
+              "title": "NT | Useful PSTN Services",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/services/landline",
+              "children": []
+            }
+          ]
+        },
+        {
+          "url": "https://www.ntc.net.np/services/namaste-credit",
+          "title": "NT | NAMASTE CREDIT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/services/sip-pbx-service",
+          "title": "NT | SIP PBX Service",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/services/cug-service",
+          "title": "NT | CUG Service",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services",
+          "children": [
+            {
+              "url": "https://www.ntc.net.np/post/cug-corporate-user-group",
+              "title": "NT | CUG - Corporate User Group",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/services/cug-service",
+              "children": []
+            }
+          ]
+        },
+        {
+          "url": "https://www.ntc.net.np/services/missed-call-alert-mca-service",
+          "title": "NT | Missed Call Alert (MCA) Service",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/services/friends-and-family-call-service-fnf",
+          "title": "NT | Friends and Family Call Service (FNF)",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/services/gsm-postpaid-service",
+          "title": "NT | GSM Postpaid Service",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/services/gsm-prepaid-service",
+          "title": "NT | GSM Prepaid Service",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services",
+          "children": [
+            {
+              "url": "https://www.ntc.net.np/latest-offers/missed-call-alert-mca-service",
+              "title": "NT | Offers",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/services/gsm-prepaid-service",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/latest-offers/cug-corporate-user-group",
+              "title": "NT | Offers",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/services/gsm-prepaid-service",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.ntc.net.np/services/adsl-service",
+      "title": "NT | ADSL Service",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://www.ntc.net.np/post/adsl-modem-cpe-configuration",
+          "title": "NT | ADSL Modem (CPE) Configuration",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services/adsl-service",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/post/how-to-subscribe-adsl",
+          "title": "NT | How to Subscribe ADSL ?",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services/adsl-service",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/tariff/adsl-tariff",
+          "title": "NT | Tariffs | ADSL Tariff",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services/adsl-service",
+          "children": [
+            {
+              "url": "https://www.ntc.net.np/tariff/toll-free-tariff",
+              "title": "NT | Tariffs | Toll Free Tariff",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/tariff/adsl-tariff",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/tariff/pstn-telephone-charges",
+              "title": "NT | Tariffs | PSTN Telephone Charges",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/tariff/adsl-tariff",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/tariff/international-call-tariff",
+              "title": "NT | Tariffs | International Call Tariff",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/tariff/adsl-tariff",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/tariff/nt-caller-tune-tariff",
+              "title": "NT | Tariffs | NT Caller Tune Tariff",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/tariff/adsl-tariff",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/tariff/nt-easyphone-tariff",
+              "title": "NT | Tariffs | NT EasyPhone Tariff",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/tariff/adsl-tariff",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/tariff/easy-phone-call-tariff",
+              "title": "NT | Tariffs | Easy Phone Call Tariff",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/tariff/adsl-tariff",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/tariff/international-roaming-tariff-gsm-prepaid",
+              "title": "NT | Tariffs | International Roaming Tariff : GSM Prepaid",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/tariff/adsl-tariff",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/tariff/gsm-prepaid-service-tariff",
+              "title": "NT | Tariffs | GSM Prepaid  Service Tariff",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/tariff/adsl-tariff",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/tariff/fnf-tariff",
+              "title": "NT | Tariffs | FNF Tariff",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/tariff/adsl-tariff",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/tariff/discounted-tariff-postpaid-roaming",
+              "title": "NT | Tariffs | Discounted Tariff Postpaid-Roaming",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/tariff/adsl-tariff",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/tariff/standard-tariff-postpaid-roaming",
+              "title": "NT | Tariffs | Standard Tariff Postpaid-Roaming",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/tariff/adsl-tariff",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/tariff/gsm-postpaid-service-tariff",
+              "title": "NT | Tariffs | GSM Postpaid Service Tariff",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/tariff/adsl-tariff",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/tariff/sip-pbx-tariff",
+              "title": "NT | Tariffs | SIP PBX Tariff",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/tariff/adsl-tariff",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.ntc.net.np/services/fiber-to-the-home-ftth",
+      "title": "NT | Fiber To The Home - FTTH",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://www.ntc.net.np/post/namaste-wi-fi",
+          "title": "NT | Namaste Wi-Fi Tariff",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services/fiber-to-the-home-ftth",
+          "children": [
+            {
+              "url": "https://www.ntc.net.np/post/nt-caller-tune",
+              "title": "NT | NT Caller Tune",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/namaste-wi-fi",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/gsm-supplementary-service",
+              "title": "NT | GSM Supplementary Service",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/namaste-wi-fi",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/mpos-pinless-top-up",
+              "title": "NT | MPoS Pinless Top-Up",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/namaste-wi-fi",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/mobile-app",
+              "title": "NT | Mobile APP",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/namaste-wi-fi",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/volte",
+              "title": "NT | VoLTE",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/namaste-wi-fi",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/international-roaming-data-package",
+              "title": "NT | International Roaming Data Package",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/namaste-wi-fi",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/recurring-postpaid-package",
+              "title": "NT | Recurring Postpaid Package",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/namaste-wi-fi",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/telecom-tariff",
+              "title": "NT | Telecom Tariff",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/namaste-wi-fi",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/international-call-tariff",
+              "title": "NT | International Call Tariff",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/namaste-wi-fi",
+              "children": []
+            }
+          ]
+        },
+        {
+          "url": "https://www.ntc.net.np/post/namaste-wifi-4g-wireless-home-broadband-bk",
+          "title": "NT | Namaste Wifi",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services/fiber-to-the-home-ftth",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "https://www.ntc.net.np/services/4g-lte-network",
+      "title": "NT | 4G LTE Network",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://www.ntc.net.np/post/4g-coverage",
+          "title": "NT | 4G Coverage",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services/4g-lte-network",
+          "children": [
+            {
+              "url": "https://www.ntc.net.np/post/4g-lte-network",
+              "title": "NT | 4G LTE Network",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/4g-coverage",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/adsl-service",
+              "title": "NT | ADSL Service",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/4g-coverage",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/dedicated-lease-connectivity",
+              "title": "NT | Dedicated Lease Connectivity",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/4g-coverage",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/nttv-faq",
+              "title": "NT | NTTV - FAQ",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/4g-coverage",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/nttv-basic-package-channel-list",
+              "title": "NT | NTTV Basic Package Channel List",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/4g-coverage",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/nttv-premium-package-channel-list",
+              "title": "NT | NTTV Premium Package Channel List",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/4g-coverage",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/fiber-to-the-home-ftth",
+              "title": "NT | Fiber To The Home - FTTH",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/4g-coverage",
+              "children": []
+            },
+            {
+              "url": "https://www.ntc.net.np/post/wi-fi-6",
+              "title": "NT | Wi-Fi  6",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/4g-coverage",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.ntc.net.np/services/sms-based-vas-services",
+      "title": "NT | SMS Based VAS Services",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/services/nttv",
+      "title": "NT | NTTV",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://www.ntc.net.np/post/nttv-bouquet-ala-carte-channels-list",
+          "title": "NT | NTTV Bouquet (A'La Carte) Channels List",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services/nttv",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/post/nttv-basic-channels-list",
+          "title": "NT | NTTV Basic Channels List",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services/nttv",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/post/nttv",
+          "title": "NT | NTTV",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/services/nttv",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "https://www.ntc.net.np/recharge/esewa",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/recharge/khalti",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/recharge/namaste-pay",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/news-and-updates/",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://www.ntc.net.np/news-and-updates/important-notice-about-logo",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/news-and-updates/",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/news-and-updates/sip-pbx-service",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/news-and-updates/",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/news-and-updates/online-nt-vacancy",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/news-and-updates/",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/news-and-updates/free-website-browsing",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/news-and-updates/",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/news-and-updates/nts-request-on-using-4g-mobile-handset",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/news-and-updates/",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/news-and-updates/15th-agm-nepal-telecom",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/news-and-updates/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "https://www.ntc.net.np/news-and-updates/dashain-tihar-promotional-offer",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/news-and-updates/16th-agm-nepal-telecom",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/news-and-updates/20th-anniversary-offer-2080",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/news-and-updates/anniversary-offer",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/news-and-updates/17th-agm-nepal-telecom",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/post/retirement-main-portal",
+      "title": "NT | Retirement Main Portal",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://www.ntc.net.np/post/retirement-related-downloads",
+          "title": "NT | Retirement Related Downloads",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/post/retirement-main-portal",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/post/retirement-news-portal",
+          "title": "NT | Retirement  Related Notices",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/post/retirement-main-portal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "https://www.ntc.net.np/recharge",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/press-releases",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/fixed-line-enquiry",
+      "title": "NT | Fixed Line Inquiry",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/notices/",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://www.ntc.net.np/notices/15th-agm-nepal-telecom",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/notices/",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/notices/16th-agm-nepal-telecom",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/notices/",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/notices/20th-anniversary-offer-2080",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/notices/",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/notices/re-invitation-for-sealed-quotations-b",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/notices/",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/notices/online-b-aab",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/notices/",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/notices/tender-notice-regarding-mobile-multi-charger",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/notices/",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/notices/notice-regarding-diary-calendar",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/notices/",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/notices/17th-agm-nepal-telecom",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/notices/",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/notices/notices-for-all-general-public",
+          "title": "NT",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/notices/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "https://www.ntc.net.np/notices/corporate-social-responsibility",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/notices/proactive-disclosure",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/notices/17th-agm-nepal-telecom-1",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/notices/monsoon-offer-2082",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/notices/international-outgoing-sms",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/notices/18th-agm-nepal-telecom",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/post/audio-notice-board-service",
+      "title": "NT | Audio Notice Board Service",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://www.ntc.net.np/post/easy-phone-service",
+          "title": "NT | Easy Phone Service",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/post/audio-notice-board-service",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/post/vas",
+          "title": "NT | VAS",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/post/audio-notice-board-service",
+          "children": [
+            {
+              "url": "https://www.ntc.net.np/services/easy-phone-service",
+              "title": "NT | Easy Phone Service",
+              "status": 200,
+              "depth": 3,
+              "parent": "https://www.ntc.net.np/post/vas",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.ntc.net.np/services/international-roaming",
+      "title": "NT | International Roaming",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/tariff/ftth-tariff",
+      "title": "NT | Tariffs | FTTH Tariff",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/user/register?r=0.u7ftm7na87",
+      "title": "NT | Self Care Account",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/user/register?r=0.4ad3hcn0rla",
+      "title": "NT | Self Care Account",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/user/register?r=0.nv366e112dl",
+      "title": "NT | Self Care Account",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/user/register?r=0.k6vn4fra5t",
+      "title": "NT | Self Care Account",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/user/register?r=0.7yjgt32qwos",
+      "title": "NT | Self Care Account",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/user/register?r=0.nsz2kg8fb7",
+      "title": "NT | Self Care Account",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/post/vowifi",
+      "title": "NT | VoWiFi",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/post/tiktok-pack",
+      "title": "NT | TikTok Pack",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/user/change-password",
+      "title": "NT | Self Care Account",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/user/login",
+      "title": "NT | Self Care Account",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/user/register",
+      "title": "NT | Self Care Account",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/services?business=corporate",
+      "title": "NT | Services",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/services?business=individual",
+      "title": "NT | Services",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/post/monsoon-offer-2082",
+      "title": "NT | Monsoon Offer 2082",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://www.ntc.net.np/post/summer-offer-2082",
+          "title": "NT | Summer Offer 2082",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/post/monsoon-offer-2082",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "https://www.ntc.net.np/post/new-career",
+      "title": "NT | All  Career Notices",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": [
+        {
+          "url": "https://www.ntc.net.np/post/interview-results",
+          "title": "NT | Interview Results",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/post/new-career",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/post/interview-result",
+          "title": "NT | Interview Result 081/082",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/post/new-career",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/post/interview-schedule-1",
+          "title": "NT | Interview Schedule 081/082",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/post/new-career",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/post/approved-applicants-list-2081-82",
+          "title": "NT | Approved Applicants List 2081-82",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/post/new-career",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/post/081-82",
+          "title": "NT | Vacancy  2081-82",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/post/new-career",
+          "children": []
+        },
+        {
+          "url": "https://www.ntc.net.np/post/new-syllabus-208182",
+          "title": "NT | New Syllabus 2081/82",
+          "status": 200,
+          "depth": 2,
+          "parent": "https://www.ntc.net.np/post/new-career",
+          "children": []
+        }
+      ]
+    },
+    {
+      "url": "https://www.ntc.net.np/category/vas",
+      "title": "NT | VAS",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/category/internet",
+      "title": "NT | Internet",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/category/gsm",
+      "title": "NT | GSM",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/category/fixed-line",
+      "title": "NT | Fixed Line",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    },
+    {
+      "url": "https://www.ntc.net.np/",
+      "title": "NT",
+      "status": 200,
+      "depth": 1,
+      "parent": "https://www.ntc.net.np",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+└── NT
+    URL: https://www.ntc.net.np
+    ├── NT recharge card support
+        URL: https://pinrecovery.ntc.net.np/
+    ├── NT eSIM Portal - Send OTP
+        URL: https://esim.ntc.net.np
+    │   ├── eSIM Guidelines - Nepal Telecom
+    │       URL: https://esim.ntc.net.np/help_page.php
+    │   │   └── NT eSIM Portal - Send OTP
+    │   │       URL: https://esim.ntc.net.np/index.php
+    │   ├── NT | Contact Info
+    │       URL: https://www.ntc.net.np/post/contact-info
+    │   │   ├── NT | Vision, Mission & Goal
+    │   │       URL: https://www.ntc.net.np/post/mission-vision-goal-1
+    │   │   ├── NT | Milestones
+    │   │       URL: https://www.ntc.net.np/post/milestones
+    │   │   ├── NT | Fiscal Year 2070-71
+    │   │       URL: https://www.ntc.net.np/post/fiscal-year-2070-71
+    │   │   ├── NT | Fiscal Year 2071-72
+    │   │       URL: https://www.ntc.net.np/post/fiscal-year-2071-072
+    │   │   ├── NT | Fiscal Year 2072-73
+    │   │       URL: https://www.ntc.net.np/post/fiscal-year-2072-73
+    │   │   ├── NT | Fiscal Year 2073-74
+    │   │       URL: https://www.ntc.net.np/post/fiscal-year-2073-074
+    │   │   ├── NT | Fiscal Year 2075-76
+    │   │       URL: https://www.ntc.net.np/post/fiscal-year-2075-76
+    │   │   ├── NT | Organization Structure
+    │   │       URL: https://www.ntc.net.np/post/organization-structure-2
+    │   │   ├── NT | Nepal Telecom
+    │   │       URL: https://www.ntc.net.np/post/welcome-to-nepal-telecom
+    │   │   ├── NT | Departments
+    │   │       URL: https://www.ntc.net.np/post/departments
+    │   │   ├── NT | Telecom Smarika
+    │   │       URL: https://www.ntc.net.np/post/telecom-smarika
+    │   │   ├── NT | Office of CHRO
+    │   │       URL: https://www.ntc.net.np/post/office-of-chro
+    │   │   ├── NT | Office of CFO
+    │   │       URL: https://www.ntc.net.np/post/office-of-cfo
+    │   │   ├── NT | Fiscal Year 2076-77
+    │   │       URL: https://www.ntc.net.np/post/fiscal-year-2076-77
+    │   │   ├── NT | Fiscal Year 2077-78
+    │   │       URL: https://www.ntc.net.np/post/fiscal-year-2077-78
+    │   │   ├── NT | Karmachari Biniyamawali
+    │   │       URL: https://www.ntc.net.np/post/karmachari-biniyamawali
+    │   │   ├── NT | Fiscal Year 2078-79
+    │   │       URL: https://www.ntc.net.np/post/fiscal-year-2078-79
+    │   │   ├── NT | Fiscal Year 2079-80
+    │   │       URL: https://www.ntc.net.np/post/fiscal-year-2079-80
+    │   │   ├── NT | 15th AGM -  Nepal Telecom
+    │   │       URL: https://www.ntc.net.np/post/15th-agm-nepal-telecom
+    │   │   ├── NT | Fiscal Year 2080-81
+    │   │       URL: https://www.ntc.net.np/post/fiscal-year-2080-81
+    │   │   ├── NT | 16th AGM -  Nepal Telecom
+    │   │       URL: https://www.ntc.net.np/post/16th-agm-nepal-telecom
+    │   │   ├── NT | Fiscal Year 2081-082
+    │   │       URL: https://www.ntc.net.np/post/fiscal-year-2081-082
+    │   │   ├── NT | मतदाता नामावली  (प्रथम पटक प्रकाशित )
+    │   │       URL: https://www.ntc.net.np/post/l-b-a
+    │   │   ├── NT | Board of Directors
+    │   │       URL: https://www.ntc.net.np/post/board-of-directors
+    │   │   ├── NT | News & Updates
+    │   │       URL: https://www.ntc.net.np/post/17th-agm-nepal-telecom
+    │   │   ├── NT | Fiscal Year 2082-83
+    │   │       URL: https://www.ntc.net.np/post/fiscal-year-2082-83
+    │   │   ├── NT | 17th AGM -  Nepal Telecom
+    │   │       URL: https://www.ntc.net.np/post/17th-agm-nepal-telecom-1
+    │   │   └── NT | 18th AGM - Nepal Telecom
+    │   │       URL: https://www.ntc.net.np/post/18th-agm-nepal-telecom
+    │   └── NT
+    │       URL: https://www.ntc.net.np/buy/packages
+    ├── Nepal Telecom :: Nepal Doorsanchar Company Limited
+        URL: https://gsmbl.ntc.net.np
+    │   ├── NT | undefined
+    │       URL: https://www.ntc.net.np/companyInfo/contact.php
+    │   └── NT | undefined
+    │       URL: https://www.ntc.net.np/downloads/downloads.php
+    ├── NEPAL TELECOM
+        URL: https://offer.ntc.net.np/
+    │   ├── NEPAL TELECOM
+    │       URL: https://offer.ntc.net.np/VolumeQuery.aspx
+    │   └── NEPAL TELECOM
+    │       URL: https://offer.ntc.net.np/giftpack.aspx
+    ├── NT-Mail Sign In
+        URL: https://webmail.ntc.net.np/
+    ├── Group Sms Sending Portal
+        URL: https://groupsms.ntc.net.np/
+    ├── NT
+        URL: https://www.ntc.net.np/nt-4g-lte-bands
+    ├── NT | Karmachari Biniyamawali
+        URL: https://www.ntc.net.np/about-us/karmachari-biniyamawali
+    ├── NT | Prabandha Patra
+        URL: https://www.ntc.net.np/about-us/prabandha-patra
+    ├── NT | Financial Statements
+        URL: https://www.ntc.net.np/about-us/financial-statements
+    ├── NT | Contact
+        URL: https://www.ntc.net.np/about-us/contact
+    ├── NT | Telecom Smarika
+        URL: https://www.ntc.net.np/about-us/telecom-smarika
+    ├── NT | Annual General Meeting
+        URL: https://www.ntc.net.np/about-us/annual-general-meeting
+    ├── NT | Departments
+        URL: https://www.ntc.net.np/about-us/departments
+    │   └── 
+    │       URL: https://ttrc.ntc.net.np/
+    ├── NT | Milestones
+        URL: https://www.ntc.net.np/about-us/milestones
+    ├── NT | Nepal Telecom in Brief
+        URL: https://www.ntc.net.np/about-us/nepal-telecom-in-brief
+    │   └── NT | स्वत: प्रकाशन (Proactive Disclosure)
+    │       URL: https://www.ntc.net.np/post/proactive-disclosure
+    │       ├── NT | Newsletters
+    │           URL: https://www.ntc.net.np/post/newsletters
+    │       ├── NT | Useful Short Codes
+    │           URL: https://www.ntc.net.np/post/useful-short-codes
+    │       ├── NT | NT's request on using 4G Mobile Handset
+    │           URL: https://www.ntc.net.np/post/nts-request-on-using-4g-mobile-handset
+    │       ├── NT | Form Downloads
+    │           URL: https://www.ntc.net.np/post/form-dowloads
+    │       ├── NT | Teez TikTok Contest 2080
+    │           URL: https://www.ntc.net.np/post/teez-tiktok-challenge-2080
+    │       ├── NT | 20th Anniversary Offer 2080
+    │           URL: https://www.ntc.net.np/post/20th-anniversary-offer-2080
+    │       ├── NT | Online पत्रिकाको सूचीकरण सम्बन्धि सूचना (7 Da
+    │           URL: https://www.ntc.net.np/post/online-b-aab
+    │       ├── NT | Re-invitation For Sealed Quotations सम्बन्धि 
+    │           URL: https://www.ntc.net.np/post/re-invitation-for-sealed-quotations-b
+    │       ├── NT | Notice regarding Mobile Multi Charger
+    │           URL: https://www.ntc.net.np/post/tender-notice-regarding-mobile-multi-charger
+    │       ├── NT | Notice regarding Diary & Calendar
+    │           URL: https://www.ntc.net.np/post/notice-regarding-diary-calendar
+    │       ├── NT | International Outgoing SMS
+    │           URL: https://www.ntc.net.np/post/international-outgoing-sms
+    │       └── NT | Notices For All  General Public
+    │           URL: https://www.ntc.net.np/post/notices-for-all-general-public
+    ├── NT | Vision, Mission & Goal
+        URL: https://www.ntc.net.np/about-us/vision-mission-goal
+    ├── NT | Board of Directors
+        URL: https://www.ntc.net.np/about-us/board-of-directors
+    ├── NT | Organization Structure
+        URL: https://www.ntc.net.np/about-us/organization-structure
+    ├── NT | About Us
+        URL: https://www.ntc.net.np/about-us/
+    ├── NT | Services
+        URL: https://www.ntc.net.np/services
+    │   ├── NT | Dedicated Lease Connectivity
+    │       URL: https://www.ntc.net.np/services/dedicated-lease-connectivity
+    │   ├── NT | CRBT(Caller Ring Back Tone)
+    │       URL: https://www.ntc.net.np/services/crbtcaller-ring-back-tone
+    │   ├── NT | IVR Service
+    │       URL: https://www.ntc.net.np/services/ivr-service
+    │   ├── NT | Toll-Free Phone
+    │       URL: https://www.ntc.net.np/services/toll-free-phone
+    │   ├── NT | Landline
+    │       URL: https://www.ntc.net.np/services/landline
+    │   │   ├── NT
+    │   │       URL: https://www.ntc.net.np/notices/useful-short-codes
+    │   │   └── NT | Useful PSTN Services
+    │   │       URL: https://www.ntc.net.np/post/useful-pstn-services
+    │   ├── NT | NAMASTE CREDIT
+    │       URL: https://www.ntc.net.np/services/namaste-credit
+    │   ├── NT | SIP PBX Service
+    │       URL: https://www.ntc.net.np/services/sip-pbx-service
+    │   ├── NT | CUG Service
+    │       URL: https://www.ntc.net.np/services/cug-service
+    │   │   └── NT | CUG - Corporate User Group
+    │   │       URL: https://www.ntc.net.np/post/cug-corporate-user-group
+    │   ├── NT | Missed Call Alert (MCA) Service
+    │       URL: https://www.ntc.net.np/services/missed-call-alert-mca-service
+    │   ├── NT | Friends and Family Call Service (FNF)
+    │       URL: https://www.ntc.net.np/services/friends-and-family-call-service-fnf
+    │   ├── NT | GSM Postpaid Service
+    │       URL: https://www.ntc.net.np/services/gsm-postpaid-service
+    │   └── NT | GSM Prepaid Service
+    │       URL: https://www.ntc.net.np/services/gsm-prepaid-service
+    │       ├── NT | Offers
+    │           URL: https://www.ntc.net.np/latest-offers/missed-call-alert-mca-service
+    │       └── NT | Offers
+    │           URL: https://www.ntc.net.np/latest-offers/cug-corporate-user-group
+    ├── NT | ADSL Service
+        URL: https://www.ntc.net.np/services/adsl-service
+    │   ├── NT | ADSL Modem (CPE) Configuration
+    │       URL: https://www.ntc.net.np/post/adsl-modem-cpe-configuration
+    │   ├── NT | How to Subscribe ADSL ?
+    │       URL: https://www.ntc.net.np/post/how-to-subscribe-adsl
+    │   └── NT | Tariffs | ADSL Tariff
+    │       URL: https://www.ntc.net.np/tariff/adsl-tariff
+    │       ├── NT | Tariffs | Toll Free Tariff
+    │           URL: https://www.ntc.net.np/tariff/toll-free-tariff
+    │       ├── NT | Tariffs | PSTN Telephone Charges
+    │           URL: https://www.ntc.net.np/tariff/pstn-telephone-charges
+    │       ├── NT | Tariffs | International Call Tariff
+    │           URL: https://www.ntc.net.np/tariff/international-call-tariff
+    │       ├── NT | Tariffs | NT Caller Tune Tariff
+    │           URL: https://www.ntc.net.np/tariff/nt-caller-tune-tariff
+    │       ├── NT | Tariffs | NT EasyPhone Tariff
+    │           URL: https://www.ntc.net.np/tariff/nt-easyphone-tariff
+    │       ├── NT | Tariffs | Easy Phone Call Tariff
+    │           URL: https://www.ntc.net.np/tariff/easy-phone-call-tariff
+    │       ├── NT | Tariffs | International Roaming Tariff : GSM 
+    │           URL: https://www.ntc.net.np/tariff/international-roaming-tariff-gsm-prepaid
+    │       ├── NT | Tariffs | GSM Prepaid  Service Tariff
+    │           URL: https://www.ntc.net.np/tariff/gsm-prepaid-service-tariff
+    │       ├── NT | Tariffs | FNF Tariff
+    │           URL: https://www.ntc.net.np/tariff/fnf-tariff
+    │       ├── NT | Tariffs | Discounted Tariff Postpaid-Roaming
+    │           URL: https://www.ntc.net.np/tariff/discounted-tariff-postpaid-roaming
+    │       ├── NT | Tariffs | Standard Tariff Postpaid-Roaming
+    │           URL: https://www.ntc.net.np/tariff/standard-tariff-postpaid-roaming
+    │       ├── NT | Tariffs | GSM Postpaid Service Tariff
+    │           URL: https://www.ntc.net.np/tariff/gsm-postpaid-service-tariff
+    │       └── NT | Tariffs | SIP PBX Tariff
+    │           URL: https://www.ntc.net.np/tariff/sip-pbx-tariff
+    ├── NT | Fiber To The Home - FTTH
+        URL: https://www.ntc.net.np/services/fiber-to-the-home-ftth
+    │   ├── NT | Namaste Wi-Fi Tariff
+    │       URL: https://www.ntc.net.np/post/namaste-wi-fi
+    │   │   ├── NT | NT Caller Tune
+    │   │       URL: https://www.ntc.net.np/post/nt-caller-tune
+    │   │   ├── NT | GSM Supplementary Service
+    │   │       URL: https://www.ntc.net.np/post/gsm-supplementary-service
+    │   │   ├── NT | MPoS Pinless Top-Up
+    │   │       URL: https://www.ntc.net.np/post/mpos-pinless-top-up
+    │   │   ├── NT | Mobile APP
+    │   │       URL: https://www.ntc.net.np/post/mobile-app
+    │   │   ├── NT | VoLTE
+    │   │       URL: https://www.ntc.net.np/post/volte
+    │   │   ├── NT | International Roaming Data Package
+    │   │       URL: https://www.ntc.net.np/post/international-roaming-data-package
+    │   │   ├── NT | Recurring Postpaid Package
+    │   │       URL: https://www.ntc.net.np/post/recurring-postpaid-package
+    │   │   ├── NT | Telecom Tariff
+    │   │       URL: https://www.ntc.net.np/post/telecom-tariff
+    │   │   └── NT | International Call Tariff
+    │   │       URL: https://www.ntc.net.np/post/international-call-tariff
+    │   └── NT | Namaste Wifi
+    │       URL: https://www.ntc.net.np/post/namaste-wifi-4g-wireless-home-broadband-bk
+    ├── NT | 4G LTE Network
+        URL: https://www.ntc.net.np/services/4g-lte-network
+    │   └── NT | 4G Coverage
+    │       URL: https://www.ntc.net.np/post/4g-coverage
+    │       ├── NT | 4G LTE Network
+    │           URL: https://www.ntc.net.np/post/4g-lte-network
+    │       ├── NT | ADSL Service
+    │           URL: https://www.ntc.net.np/post/adsl-service
+    │       ├── NT | Dedicated Lease Connectivity
+    │           URL: https://www.ntc.net.np/post/dedicated-lease-connectivity
+    │       ├── NT | NTTV - FAQ
+    │           URL: https://www.ntc.net.np/post/nttv-faq
+    │       ├── NT | NTTV Basic Package Channel List
+    │           URL: https://www.ntc.net.np/post/nttv-basic-package-channel-list
+    │       ├── NT | NTTV Premium Package Channel List
+    │           URL: https://www.ntc.net.np/post/nttv-premium-package-channel-list
+    │       ├── NT | Fiber To The Home - FTTH
+    │           URL: https://www.ntc.net.np/post/fiber-to-the-home-ftth
+    │       └── NT | Wi-Fi  6
+    │           URL: https://www.ntc.net.np/post/wi-fi-6
+    ├── NT | SMS Based VAS Services
+        URL: https://www.ntc.net.np/services/sms-based-vas-services
+    ├── NT | NTTV
+        URL: https://www.ntc.net.np/services/nttv
+    │   ├── NT | NTTV Bouquet (A'La Carte) Channels List
+    │       URL: https://www.ntc.net.np/post/nttv-bouquet-ala-carte-channels-list
+    │   ├── NT | NTTV Basic Channels List
+    │       URL: https://www.ntc.net.np/post/nttv-basic-channels-list
+    │   └── NT | NTTV
+    │       URL: https://www.ntc.net.np/post/nttv
+    ├── NT
+        URL: https://www.ntc.net.np/recharge/esewa
+    ├── NT
+        URL: https://www.ntc.net.np/recharge/khalti
+    ├── NT
+        URL: https://www.ntc.net.np/recharge/namaste-pay
+    ├── NT
+        URL: https://www.ntc.net.np/news-and-updates/
+    │   ├── NT
+    │       URL: https://www.ntc.net.np/news-and-updates/important-notice-about-logo
+    │   ├── NT
+    │       URL: https://www.ntc.net.np/news-and-updates/sip-pbx-service
+    │   ├── NT
+    │       URL: https://www.ntc.net.np/news-and-updates/online-nt-vacancy
+    │   ├── NT
+    │       URL: https://www.ntc.net.np/news-and-updates/free-website-browsing
+    │   ├── NT
+    │       URL: https://www.ntc.net.np/news-and-updates/nts-request-on-using-4g-mobile-handset
+    │   └── NT
+    │       URL: https://www.ntc.net.np/news-and-updates/15th-agm-nepal-telecom
+    ├── NT
+        URL: https://www.ntc.net.np/news-and-updates/dashain-tihar-promotional-offer
+    ├── NT
+        URL: https://www.ntc.net.np/news-and-updates/16th-agm-nepal-telecom
+    ├── NT
+        URL: https://www.ntc.net.np/news-and-updates/20th-anniversary-offer-2080
+    ├── NT
+        URL: https://www.ntc.net.np/news-and-updates/anniversary-offer
+    ├── NT
+        URL: https://www.ntc.net.np/news-and-updates/17th-agm-nepal-telecom
+    ├── NT | Retirement Main Portal
+        URL: https://www.ntc.net.np/post/retirement-main-portal
+    │   ├── NT | Retirement Related Downloads
+    │       URL: https://www.ntc.net.np/post/retirement-related-downloads
+    │   └── NT | Retirement  Related Notices
+    │       URL: https://www.ntc.net.np/post/retirement-news-portal
+    ├── NT
+        URL: https://www.ntc.net.np/recharge
+    ├── NT
+        URL: https://www.ntc.net.np/press-releases
+    ├── NT | Fixed Line Inquiry
+        URL: https://www.ntc.net.np/fixed-line-enquiry
+    ├── NT
+        URL: https://www.ntc.net.np/notices/
+    │   ├── NT
+    │       URL: https://www.ntc.net.np/notices/15th-agm-nepal-telecom
+    │   ├── NT
+    │       URL: https://www.ntc.net.np/notices/16th-agm-nepal-telecom
+    │   ├── NT
+    │       URL: https://www.ntc.net.np/notices/20th-anniversary-offer-2080
+    │   ├── NT
+    │       URL: https://www.ntc.net.np/notices/re-invitation-for-sealed-quotations-b
+    │   ├── NT
+    │       URL: https://www.ntc.net.np/notices/online-b-aab
+    │   ├── NT
+    │       URL: https://www.ntc.net.np/notices/tender-notice-regarding-mobile-multi-charger
+    │   ├── NT
+    │       URL: https://www.ntc.net.np/notices/notice-regarding-diary-calendar
+    │   ├── NT
+    │       URL: https://www.ntc.net.np/notices/17th-agm-nepal-telecom
+    │   └── NT
+    │       URL: https://www.ntc.net.np/notices/notices-for-all-general-public
+    ├── NT
+        URL: https://www.ntc.net.np/notices/corporate-social-responsibility
+    ├── NT
+        URL: https://www.ntc.net.np/notices/proactive-disclosure
+    ├── NT
+        URL: https://www.ntc.net.np/notices/17th-agm-nepal-telecom-1
+    ├── NT
+        URL: https://www.ntc.net.np/notices/monsoon-offer-2082
+    ├── NT
+        URL: https://www.ntc.net.np/notices/international-outgoing-sms
+    ├── NT
+        URL: https://www.ntc.net.np/notices/18th-agm-nepal-telecom
+    ├── NT | Audio Notice Board Service
+        URL: https://www.ntc.net.np/post/audio-notice-board-service
+    │   ├── NT | Easy Phone Service
+    │       URL: https://www.ntc.net.np/post/easy-phone-service
+    │   └── NT | VAS
+    │       URL: https://www.ntc.net.np/post/vas
+    │       └── NT | Easy Phone Service
+    │           URL: https://www.ntc.net.np/services/easy-phone-service
+    ├── NT | International Roaming
+        URL: https://www.ntc.net.np/services/international-roaming
+    ├── NT | Tariffs | FTTH Tariff
+        URL: https://www.ntc.net.np/tariff/ftth-tariff
+    ├── NT | Self Care Account
+        URL: https://www.ntc.net.np/user/register?r=0.u7ftm7na87
+    ├── NT | Self Care Account
+        URL: https://www.ntc.net.np/user/register?r=0.4ad3hcn0rla
+    ├── NT | Self Care Account
+        URL: https://www.ntc.net.np/user/register?r=0.nv366e112dl
+    ├── NT | Self Care Account
+        URL: https://www.ntc.net.np/user/register?r=0.k6vn4fra5t
+    ├── NT | Self Care Account
+        URL: https://www.ntc.net.np/user/register?r=0.7yjgt32qwos
+    ├── NT | Self Care Account
+        URL: https://www.ntc.net.np/user/register?r=0.nsz2kg8fb7
+    ├── NT | VoWiFi
+        URL: https://www.ntc.net.np/post/vowifi
+    ├── NT | TikTok Pack
+        URL: https://www.ntc.net.np/post/tiktok-pack
+    ├── NT | Self Care Account
+        URL: https://www.ntc.net.np/user/change-password
+    ├── NT | Self Care Account
+        URL: https://www.ntc.net.np/user/login
+    ├── NT | Self Care Account
+        URL: https://www.ntc.net.np/user/register
+    ├── NT | Services
+        URL: https://www.ntc.net.np/services?business=corporate
+    ├── NT | Services
+        URL: https://www.ntc.net.np/services?business=individual
+    ├── NT | Monsoon Offer 2082
+        URL: https://www.ntc.net.np/post/monsoon-offer-2082
+    │   └── NT | Summer Offer 2082
+    │       URL: https://www.ntc.net.np/post/summer-offer-2082
+    ├── NT | All  Career Notices
+        URL: https://www.ntc.net.np/post/new-career
+    │   ├── NT | Interview Results
+    │       URL: https://www.ntc.net.np/post/interview-results
+    │   ├── NT | Interview Result 081/082
+    │       URL: https://www.ntc.net.np/post/interview-result
+    │   ├── NT | Interview Schedule 081/082
+    │       URL: https://www.ntc.net.np/post/interview-schedule-1
+    │   ├── NT | Approved Applicants List 2081-82
+    │       URL: https://www.ntc.net.np/post/approved-applicants-list-2081-82
+    │   ├── NT | Vacancy  2081-82
+    │       URL: https://www.ntc.net.np/post/081-82
+    │   └── NT | New Syllabus 2081/82
+    │       URL: https://www.ntc.net.np/post/new-syllabus-208182
+    ├── NT | VAS
+        URL: https://www.ntc.net.np/category/vas
+    ├── NT | Internet
+        URL: https://www.ntc.net.np/category/internet
+    ├── NT | GSM
+        URL: https://www.ntc.net.np/category/gsm
+    ├── NT | Fixed Line
+        URL: https://www.ntc.net.np/category/fixed-line
+    └── NT
+        URL: https://www.ntc.net.np/

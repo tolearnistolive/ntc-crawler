@@ -1,0 +1,11 @@
+{
+  "url": "https://offer.ntc.net.np/",
+  "title": "NEPAL TELECOM",
+  "status": 200,
+  "depth": 1,
+  "parent": "https://www.ntc.net.np",
+  "child_urls": [
+    "https://offer.ntc.net.np/giftpack.aspx",
+    "https://offer.ntc.net.np/VolumeQuery.aspx"
+  ]
+}

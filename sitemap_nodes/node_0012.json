@@ -1,0 +1,14 @@
+{
+  "url": "https://esim.ntc.net.np/index.php",
+  "title": "NT eSIM Portal - Send OTP",
+  "status": 200,
+  "depth": 3,
+  "parent": "https://esim.ntc.net.np/help_page.php",
+  "child_urls": [
+    "https://esim.ntc.net.np/help_page.php",
+    "https://www.ntc.net.np/",
+    "https://www.ntc.net.np/buy/packages",
+    "https://www.ntc.net.np/post/contact-info",
+    "https://esim.ntc.net.np/help_page.php"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://webmail.ntc.net.np/",
+  "title": "NT-Mail Sign In",
+  "status": 200,
+  "depth": 1,
+  "parent": "https://www.ntc.net.np",
+  "child_urls": [
+    "https://www.zimbra.com/",
+    "https://www.ntc.net.np/"
+  ]
+}

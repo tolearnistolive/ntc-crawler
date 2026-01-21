@@ -1,0 +1,11 @@
+{
+  "url": "https://esim.ntc.net.np/help_page.php",
+  "title": "eSIM Guidelines - Nepal Telecom",
+  "status": 200,
+  "depth": 2,
+  "parent": "https://esim.ntc.net.np",
+  "child_urls": [
+    "https://esim.ntc.net.np/index.php",
+    "https://esim.ntc.net.np/index.php"
+  ]
+}

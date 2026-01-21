@@ -1,0 +1,33 @@
+{
+  "url": "https://www.ntc.net.np/latest-offers/cug-corporate-user-group",
+  "title": "NT | Offers",
+  "status": 200,
+  "depth": 3,
+  "parent": "https://www.ntc.net.np/services/gsm-prepaid-service",
+  "child_urls": [
+    "https://www.ntc.net.np/",
+    "https://www.ntc.net.np/",
+    "https://www.ntc.net.np/category/fixed-line",
+    "https://www.ntc.net.np/category/gsm",
+    "https://www.ntc.net.np/category/internet",
+    "https://esim.ntc.net.np",
+    "https://www.ntc.net.np/category/vas",
+    "https://www.ntc.net.np/post/new-career",
+    "https://www.ntc.net.np/post/monsoon-offer-2082",
+    "https://offer.ntc.net.np/",
+    "https://www.ntc.net.np/services?business=individual",
+    "https://www.ntc.net.np/services?business=corporate",
+    "https://webmail.ntc.net.np/",
+    "https://www.ntc.net.np/user/register",
+    "https://www.ntc.net.np/user/login",
+    "https://www.ntc.net.np/user/change-password",
+    "https://www.ntc.net.np/latest-offers/missed-call-alert-mca-service",
+    "https://www.ntc.net.np/latest-offers/cug-corporate-user-group",
+    "https://www.facebook.com/NepalTelecom.NT/",
+    "https://twitter.com/ndcl_nt",
+    "https://www.youtube.com/channel/UCsUX9iY18lVQ-wJ2kHltftQ",
+    "https://www.instagram.com/nepaltelecomofficial/",
+    "https://www.linkedin.com/company/nepal-telecom",
+    "https://www.ntc.net.np/nt-4g-lte-bands"
+  ]
+}

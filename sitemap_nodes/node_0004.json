@@ -1,0 +1,15 @@
+{
+  "url": "https://gsmbl.ntc.net.np",
+  "title": "Nepal Telecom :: Nepal Doorsanchar Company Limited",
+  "status": 200,
+  "depth": 1,
+  "parent": "https://www.ntc.net.np",
+  "child_urls": [
+    "https://www.ntc.net.np/",
+    "https://leasebill.ntc.net.np",
+    "https://www.facebook.com/NepalTelecom.NT/",
+    "https://www.ntc.net.np/",
+    "https://www.ntc.net.np/downloads/downloads.php",
+    "https://www.ntc.net.np/companyInfo/contact.php"
+  ]
+}
